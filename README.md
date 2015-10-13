@@ -1,0 +1,2 @@
+# Diablo
+Diablo static website
